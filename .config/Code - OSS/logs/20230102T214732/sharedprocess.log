@@ -1,0 +1,9 @@
+2023-01-02 21:47:33.917 [info] Starting worker process with pid 3870 (type: fileWatcher, window: 1).
+2023-01-02 21:50:16.046 [info] Worker process with pid 3870 terminated normally (type: fileWatcher, window: 1).
+2023-01-02 21:50:17.147 [info] Starting worker process with pid 4329 (type: fileWatcher, window: 1).
+2023-01-02 21:53:02.184 [info] Getting Manifest... asvetliakov.vscode-neovim
+2023-01-02 21:53:02.381 [info] Installing extension: asvetliakov.vscode-neovim
+2023-01-02 21:53:37.671 [info] Extracted extension to /home/fray/.vscode-oss/extensions/.026e5089-83a4-4dd8-9899-ace9ae8161c2: asvetliakov.vscode-neovim
+2023-01-02 21:53:37.682 [info] Renamed to /home/fray/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.96-universal
+2023-01-02 21:53:37.682 [info] Extracting completed. asvetliakov.vscode-neovim
+2023-01-02 21:53:37.691 [info] Extension installed successfully: asvetliakov.vscode-neovim

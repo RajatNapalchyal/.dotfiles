@@ -1,0 +1,29 @@
+2023-01-02 21:47:34.070 [info] Extension host with pid 3835 started
+2023-01-02 21:47:34.158 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-02 21:47:34.171 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-02 21:47:34.171 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-02 21:47:34.337 [info] Eager extensions activated
+2023-01-02 21:47:34.355 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-02 21:47:34.355 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-02 21:47:34.355 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-02 21:47:35.557 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-02 21:47:35.557 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-02 21:47:35.557 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-02 21:50:16.029 [info] Extension host terminating: received terminate message from renderer
+2023-01-02 21:50:16.040 [info] Extension host with pid 3835 exiting with code 0
+2023-01-02 21:50:17.534 [info] Extension host with pid 4328 started
+2023-01-02 21:50:17.534 [info] Skipping acquiring lock for /home/fray/.config/Code - OSS/User/workspaceStorage/be7e96b2c8f59fb117c53fc2616f1e16.
+2023-01-02 21:50:17.607 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-01-02 21:50:17.619 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-02 21:50:17.627 [info] Eager extensions activated
+2023-01-02 21:50:17.629 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-02 21:50:17.630 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-02 21:50:17.630 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-02 21:50:32.615 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-01-02 21:50:34.708 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-01-02 21:51:00.512 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-02 21:51:00.512 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-02 21:51:00.512 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-02 21:53:37.831 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: '*'
+2023-01-02 21:55:45.429 [info] Extension host terminating: received terminate message from renderer
+2023-01-02 21:55:45.447 [info] Extension host with pid 4328 exiting with code 0

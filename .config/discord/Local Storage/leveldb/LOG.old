@@ -1,0 +1,6 @@
+2023/01/02-22:51:13.378 99ef Reusing MANIFEST /home/fray/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/01/02-22:51:13.378 99ef Recovering log #56
+2023/01/02-22:51:13.380 99ef Reusing old log /home/fray/.config/discord/Local Storage/leveldb/000056.log 
+2023/01/02-22:53:14.792 99f0 Level-0 table #60: started
+2023/01/02-22:53:14.809 99f0 Level-0 table #60: 1304130 bytes OK
+2023/01/02-22:53:14.811 99f0 Delete type=0 #56

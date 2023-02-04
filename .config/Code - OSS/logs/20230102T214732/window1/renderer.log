@@ -1,0 +1,7 @@
+2023-01-02 21:47:33.431 [info] Started initializing default profile extensions in extensions installation folder. file:///home/fray/.vscode-oss/extensions
+2023-01-02 21:47:33.471 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/fray/.vscode-oss/extensions
+2023-01-02 21:47:36.329 [info] [perf] Render performance baseline is 64ms
+2023-01-02 21:47:43.406 [error] Error while registering log channel file:///home/fray/.config/Code%20-%20OSS/logs/20230102T214732/userDataSync.log Timed out while waiting for file to be created
+2023-01-02 21:50:20.129 [info] [perf] Render performance baseline is 66ms
+2023-01-02 21:50:27.193 [error] Error while registering log channel file:///home/fray/.config/Code%20-%20OSS/logs/20230102T214732/userDataSync.log Timed out while waiting for file to be created
+2023-01-02 21:52:47.343 [error] RequestService#request (browser) - error https://open-vsx.org/vscode/gallery/extensionquery {"name":"Canceled"}
