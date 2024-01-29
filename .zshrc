@@ -150,6 +150,11 @@ alias gc="git commit"
 alias gp="git push"
 alias vim="nvim"
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias head_con="~/scripts/headphones/connect.sh"
+alias head_discon="~/scripts/headphones/disconnect.sh"
+alias gpu_switch="~/scripts/gpu/switch.sh"
+
+
 
 if [[ $TERM == 'xterm-kitty' ]]; then
     alias nvim="fs nvim"
@@ -180,3 +185,4 @@ bindkey -M menuselect '^n' vi-down-line-or-history
 bindkey -M menuselect '^p' vi-up-line-or-history
 
 colorscript random
+export PATH=$PATH:/home/fray/.spicetify

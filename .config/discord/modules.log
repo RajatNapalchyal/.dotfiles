@@ -1417,3 +1417,1175 @@
 [Modules] Host is up to date.
 [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
 [Modules] No module updates available.
+2023-04-08T09:01:34.982Z [Modules] Modules initializing
+2023-04-08T09:01:34.984Z [Modules] Distribution: remote
+2023-04-08T09:01:34.984Z [Modules] Host updates: enabled
+2023-04-08T09:01:34.984Z [Modules] Module updates: enabled
+2023-04-08T09:01:34.985Z [Modules] Module install path: /home/fray/.config/discord/0.0.26/modules
+2023-04-08T09:01:34.985Z [Modules] Module installed file path: /home/fray/.config/discord/0.0.26/modules/installed.json
+2023-04-08T09:01:34.985Z [Modules] Module download path: /home/fray/.config/discord/0.0.26/modules/pending
+2023-04-08T09:01:35.314Z [Modules] Bootstrapping...
+2023-04-08T09:01:35.315Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-04-08T09:01:35.316Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-04-08T09:01:35.316Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-04-08T09:01:35.317Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-04-08T09:01:35.317Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-04-08T09:01:35.319Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-04-08T09:01:35.319Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-04-08T09:01:35.320Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-04-08T09:01:35.320Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-04-08T09:01:35.320Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-04-08T09:01:35.321Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-04-08T09:01:35.321Z [Modules] Checking for host updates.
+2023-04-08T09:01:35.920Z [Modules] Host is up to date.
+2023-04-08T09:01:35.921Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-08T09:01:35.973Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-04-08T09:01:35.973Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-04-08T09:01:35.973Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-04-08T09:01:35.973Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-04-08T09:01:35.974Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-04-08T09:01:35.975Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-04-08T09:01:35.975Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip
+2023-04-08T09:01:36.585Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 2%
+2023-04-08T09:01:36.588Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 3%
+2023-04-08T09:01:36.591Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 4%
+2023-04-08T09:01:36.594Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 5%
+2023-04-08T09:01:36.602Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 7%
+2023-04-08T09:01:36.609Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 10%
+2023-04-08T09:01:36.614Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 13%
+2023-04-08T09:01:36.619Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 14%
+2023-04-08T09:01:36.626Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 18%
+2023-04-08T09:01:36.634Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 20%
+2023-04-08T09:01:36.639Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 23%
+2023-04-08T09:01:36.643Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 26%
+2023-04-08T09:01:36.646Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 27%
+2023-04-08T09:01:36.654Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 30%
+2023-04-08T09:01:36.659Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 33%
+2023-04-08T09:01:36.666Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 36%
+2023-04-08T09:01:36.672Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 38%
+2023-04-08T09:01:36.696Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 39%
+2023-04-08T09:01:36.700Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 42%
+2023-04-08T09:01:36.709Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 45%
+2023-04-08T09:01:36.716Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 47%
+2023-04-08T09:01:36.722Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 51%
+2023-04-08T09:01:36.729Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 53%
+2023-04-08T09:01:36.732Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 54%
+2023-04-08T09:01:36.735Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 55%
+2023-04-08T09:01:36.742Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 58%
+2023-04-08T09:01:36.745Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 59%
+2023-04-08T09:01:36.750Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 61%
+2023-04-08T09:01:36.757Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 64%
+2023-04-08T09:01:36.766Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 67%
+2023-04-08T09:01:36.794Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 68%
+2023-04-08T09:01:36.807Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 71%
+2023-04-08T09:01:36.880Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 72%
+2023-04-08T09:01:36.900Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 75%
+2023-04-08T09:01:36.913Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 77%
+2023-04-08T09:01:36.934Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 79%
+2023-04-08T09:01:36.948Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 82%
+2023-04-08T09:01:36.957Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 85%
+2023-04-08T09:01:36.963Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 88%
+2023-04-08T09:01:36.969Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 90%
+2023-04-08T09:01:36.975Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 94%
+2023-04-08T09:01:36.984Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 96%
+2023-04-08T09:01:36.989Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 98%
+2023-04-08T09:01:36.991Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip: 100%
+2023-04-08T09:01:36.995Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-04-08T09:01:36.995Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip
+2023-04-08T09:01:37.592Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 1%
+2023-04-08T09:01:37.598Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 4%
+2023-04-08T09:01:37.604Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 7%
+2023-04-08T09:01:37.610Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 11%
+2023-04-08T09:01:37.623Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 13%
+2023-04-08T09:01:37.643Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 16%
+2023-04-08T09:01:37.657Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 18%
+2023-04-08T09:01:37.674Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 20%
+2023-04-08T09:01:37.680Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 23%
+2023-04-08T09:01:37.688Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 27%
+2023-04-08T09:01:37.697Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 29%
+2023-04-08T09:01:37.708Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 32%
+2023-04-08T09:01:37.719Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 35%
+2023-04-08T09:01:37.732Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 38%
+2023-04-08T09:01:37.744Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 42%
+2023-04-08T09:01:37.752Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 44%
+2023-04-08T09:01:37.766Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 47%
+2023-04-08T09:01:37.770Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 50%
+2023-04-08T09:01:37.777Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 53%
+2023-04-08T09:01:37.783Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 56%
+2023-04-08T09:01:37.789Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 59%
+2023-04-08T09:01:37.795Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 62%
+2023-04-08T09:01:37.803Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 64%
+2023-04-08T09:01:37.809Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 67%
+2023-04-08T09:01:37.817Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 71%
+2023-04-08T09:01:37.821Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 74%
+2023-04-08T09:01:37.827Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 77%
+2023-04-08T09:01:37.831Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 79%
+2023-04-08T09:01:37.837Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 81%
+2023-04-08T09:01:37.843Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 84%
+2023-04-08T09:01:37.849Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 88%
+2023-04-08T09:01:37.855Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 91%
+2023-04-08T09:01:37.864Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 93%
+2023-04-08T09:01:37.870Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 96%
+2023-04-08T09:01:37.873Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 97%
+2023-04-08T09:01:37.878Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 99%
+2023-04-08T09:01:37.879Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip: 100%
+2023-04-08T09:01:37.882Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-04-08T09:01:37.882Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip
+2023-04-08T09:01:38.514Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 1%
+2023-04-08T09:01:38.534Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 2%
+2023-04-08T09:01:38.548Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 3%
+2023-04-08T09:01:38.559Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 4%
+2023-04-08T09:01:38.573Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 5%
+2023-04-08T09:01:38.584Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 6%
+2023-04-08T09:01:38.595Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 7%
+2023-04-08T09:01:38.611Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 8%
+2023-04-08T09:01:38.634Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 9%
+2023-04-08T09:01:38.654Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 10%
+2023-04-08T09:01:38.668Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 11%
+2023-04-08T09:01:38.681Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 12%
+2023-04-08T09:01:38.689Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 13%
+2023-04-08T09:01:38.717Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 14%
+2023-04-08T09:01:38.738Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 15%
+2023-04-08T09:01:38.765Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 16%
+2023-04-08T09:01:38.794Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 17%
+2023-04-08T09:01:38.818Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 18%
+2023-04-08T09:01:38.843Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 19%
+2023-04-08T09:01:38.863Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 20%
+2023-04-08T09:01:38.892Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 21%
+2023-04-08T09:01:38.933Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 22%
+2023-04-08T09:01:38.961Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 23%
+2023-04-08T09:01:38.980Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 24%
+2023-04-08T09:01:38.996Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 25%
+2023-04-08T09:01:39.013Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 26%
+2023-04-08T09:01:39.020Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 27%
+2023-04-08T09:01:39.039Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 28%
+2023-04-08T09:01:39.056Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 29%
+2023-04-08T09:01:39.070Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 30%
+2023-04-08T09:01:39.083Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 31%
+2023-04-08T09:01:39.120Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 32%
+2023-04-08T09:01:39.134Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 33%
+2023-04-08T09:01:39.146Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 34%
+2023-04-08T09:01:39.155Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 35%
+2023-04-08T09:01:39.170Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 36%
+2023-04-08T09:01:39.199Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 37%
+2023-04-08T09:01:39.211Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 38%
+2023-04-08T09:01:39.223Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 39%
+2023-04-08T09:01:39.236Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 40%
+2023-04-08T09:01:39.252Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 41%
+2023-04-08T09:01:39.263Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 42%
+2023-04-08T09:01:39.282Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 43%
+2023-04-08T09:01:39.296Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 44%
+2023-04-08T09:01:39.312Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 45%
+2023-04-08T09:01:39.323Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 46%
+2023-04-08T09:01:39.332Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 47%
+2023-04-08T09:01:39.345Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 48%
+2023-04-08T09:01:39.358Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 49%
+2023-04-08T09:01:39.370Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 50%
+2023-04-08T09:01:39.379Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 51%
+2023-04-08T09:01:39.389Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 52%
+2023-04-08T09:01:39.403Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 53%
+2023-04-08T09:01:39.414Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 54%
+2023-04-08T09:01:39.423Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 55%
+2023-04-08T09:01:39.433Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 56%
+2023-04-08T09:01:39.442Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 57%
+2023-04-08T09:01:39.453Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 58%
+2023-04-08T09:01:39.468Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 59%
+2023-04-08T09:01:39.484Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 60%
+2023-04-08T09:01:39.502Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 61%
+2023-04-08T09:01:39.516Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 62%
+2023-04-08T09:01:39.529Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 63%
+2023-04-08T09:01:39.534Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 64%
+2023-04-08T09:01:39.548Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 65%
+2023-04-08T09:01:39.558Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 66%
+2023-04-08T09:01:39.569Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 67%
+2023-04-08T09:01:39.576Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 68%
+2023-04-08T09:01:39.588Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 69%
+2023-04-08T09:01:39.602Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 70%
+2023-04-08T09:01:39.612Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 71%
+2023-04-08T09:01:39.623Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 72%
+2023-04-08T09:01:39.633Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 73%
+2023-04-08T09:01:39.642Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 74%
+2023-04-08T09:01:39.652Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 75%
+2023-04-08T09:01:39.662Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 76%
+2023-04-08T09:01:39.676Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 77%
+2023-04-08T09:01:39.690Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 78%
+2023-04-08T09:01:39.699Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 79%
+2023-04-08T09:01:39.707Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 80%
+2023-04-08T09:01:39.721Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 81%
+2023-04-08T09:01:39.733Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 82%
+2023-04-08T09:01:39.742Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 83%
+2023-04-08T09:01:39.750Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 84%
+2023-04-08T09:01:39.758Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 85%
+2023-04-08T09:01:39.770Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 86%
+2023-04-08T09:01:39.776Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 87%
+2023-04-08T09:01:39.788Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 88%
+2023-04-08T09:01:39.801Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 89%
+2023-04-08T09:01:39.806Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 90%
+2023-04-08T09:01:39.811Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 91%
+2023-04-08T09:01:39.816Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 92%
+2023-04-08T09:01:39.824Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 93%
+2023-04-08T09:01:39.835Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 94%
+2023-04-08T09:01:39.839Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 95%
+2023-04-08T09:01:39.850Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 96%
+2023-04-08T09:01:39.858Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 97%
+2023-04-08T09:01:39.864Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 98%
+2023-04-08T09:01:39.874Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 99%
+2023-04-08T09:01:39.878Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip: 100%
+2023-04-08T09:01:39.881Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-04-08T09:01:39.882Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip
+2023-04-08T09:01:40.448Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 1%
+2023-04-08T09:01:40.451Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 3%
+2023-04-08T09:01:40.453Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 4%
+2023-04-08T09:01:40.457Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 5%
+2023-04-08T09:01:40.467Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 7%
+2023-04-08T09:01:40.468Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 8%
+2023-04-08T09:01:40.473Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 10%
+2023-04-08T09:01:40.474Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 11%
+2023-04-08T09:01:40.481Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 13%
+2023-04-08T09:01:40.483Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 14%
+2023-04-08T09:01:40.487Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 16%
+2023-04-08T09:01:40.488Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 17%
+2023-04-08T09:01:40.491Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 19%
+2023-04-08T09:01:40.496Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 22%
+2023-04-08T09:01:40.497Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 23%
+2023-04-08T09:01:40.506Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 25%
+2023-04-08T09:01:40.511Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 26%
+2023-04-08T09:01:40.512Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 27%
+2023-04-08T09:01:40.515Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 28%
+2023-04-08T09:01:40.518Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 30%
+2023-04-08T09:01:40.522Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 31%
+2023-04-08T09:01:40.523Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 32%
+2023-04-08T09:01:40.528Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 34%
+2023-04-08T09:01:40.534Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 35%
+2023-04-08T09:01:40.538Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 37%
+2023-04-08T09:01:40.539Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 38%
+2023-04-08T09:01:40.556Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 40%
+2023-04-08T09:01:40.561Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 42%
+2023-04-08T09:01:40.562Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 43%
+2023-04-08T09:01:40.636Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 44%
+2023-04-08T09:01:40.657Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 45%
+2023-04-08T09:01:40.700Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 46%
+2023-04-08T09:01:40.716Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 47%
+2023-04-08T09:01:40.731Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 48%
+2023-04-08T09:01:40.785Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 49%
+2023-04-08T09:01:40.809Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 50%
+2023-04-08T09:01:40.859Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 51%
+2023-04-08T09:01:40.884Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 52%
+2023-04-08T09:01:40.917Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 53%
+2023-04-08T09:01:40.928Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 54%
+2023-04-08T09:01:40.958Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 55%
+2023-04-08T09:01:40.966Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 56%
+2023-04-08T09:01:41.005Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 57%
+2023-04-08T09:01:41.008Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 60%
+2023-04-08T09:01:41.011Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 61%
+2023-04-08T09:01:41.017Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 62%
+2023-04-08T09:01:41.029Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 64%
+2023-04-08T09:01:41.031Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 65%
+2023-04-08T09:01:41.034Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 67%
+2023-04-08T09:01:41.049Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 68%
+2023-04-08T09:01:41.057Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 69%
+2023-04-08T09:01:41.066Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 71%
+2023-04-08T09:01:41.172Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 72%
+2023-04-08T09:01:41.186Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 73%
+2023-04-08T09:01:41.237Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 74%
+2023-04-08T09:01:41.254Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 75%
+2023-04-08T09:01:41.271Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 76%
+2023-04-08T09:01:41.292Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 77%
+2023-04-08T09:01:41.345Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 78%
+2023-04-08T09:01:41.380Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 80%
+2023-04-08T09:01:41.404Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 81%
+2023-04-08T09:01:41.405Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 82%
+2023-04-08T09:01:41.409Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 84%
+2023-04-08T09:01:41.410Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 85%
+2023-04-08T09:01:41.435Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 86%
+2023-04-08T09:01:41.440Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 88%
+2023-04-08T09:01:41.441Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 89%
+2023-04-08T09:01:41.443Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 91%
+2023-04-08T09:01:41.449Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 94%
+2023-04-08T09:01:41.465Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 96%
+2023-04-08T09:01:41.469Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 98%
+2023-04-08T09:01:41.470Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 99%
+2023-04-08T09:01:41.472Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip: 100%
+2023-04-08T09:01:41.474Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-04-08T09:01:41.475Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip
+2023-04-08T09:01:42.106Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 1%
+2023-04-08T09:01:42.122Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 2%
+2023-04-08T09:01:42.132Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 3%
+2023-04-08T09:01:42.142Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 4%
+2023-04-08T09:01:42.155Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 5%
+2023-04-08T09:01:42.168Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 6%
+2023-04-08T09:01:42.184Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 7%
+2023-04-08T09:01:42.192Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 8%
+2023-04-08T09:01:42.210Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 9%
+2023-04-08T09:01:42.221Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 10%
+2023-04-08T09:01:42.237Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 11%
+2023-04-08T09:01:42.247Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 12%
+2023-04-08T09:01:42.258Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 13%
+2023-04-08T09:01:42.270Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 14%
+2023-04-08T09:01:42.316Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 15%
+2023-04-08T09:01:42.326Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 16%
+2023-04-08T09:01:42.338Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 17%
+2023-04-08T09:01:42.349Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 18%
+2023-04-08T09:01:42.361Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 19%
+2023-04-08T09:01:42.385Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 20%
+2023-04-08T09:01:42.425Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 21%
+2023-04-08T09:01:42.443Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 22%
+2023-04-08T09:01:42.459Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 23%
+2023-04-08T09:01:42.507Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 24%
+2023-04-08T09:01:42.519Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 25%
+2023-04-08T09:01:42.535Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 26%
+2023-04-08T09:01:42.546Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 27%
+2023-04-08T09:01:42.561Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 28%
+2023-04-08T09:01:42.577Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 29%
+2023-04-08T09:01:42.588Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 30%
+2023-04-08T09:01:42.605Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 31%
+2023-04-08T09:01:42.616Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 32%
+2023-04-08T09:01:42.626Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 33%
+2023-04-08T09:01:42.635Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 34%
+2023-04-08T09:01:42.646Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 35%
+2023-04-08T09:01:42.663Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 36%
+2023-04-08T09:01:42.695Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 37%
+2023-04-08T09:01:42.705Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 38%
+2023-04-08T09:01:42.719Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 39%
+2023-04-08T09:01:42.732Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 40%
+2023-04-08T09:01:42.744Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 41%
+2023-04-08T09:01:42.758Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 42%
+2023-04-08T09:01:42.769Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 43%
+2023-04-08T09:01:42.781Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 44%
+2023-04-08T09:01:42.814Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 45%
+2023-04-08T09:01:42.824Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 46%
+2023-04-08T09:01:42.834Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 47%
+2023-04-08T09:01:42.851Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 48%
+2023-04-08T09:01:42.862Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 49%
+2023-04-08T09:01:42.872Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 50%
+2023-04-08T09:01:42.883Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 51%
+2023-04-08T09:01:42.895Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 52%
+2023-04-08T09:01:42.912Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 53%
+2023-04-08T09:01:42.940Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 54%
+2023-04-08T09:01:42.997Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 55%
+2023-04-08T09:01:43.007Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 56%
+2023-04-08T09:01:43.018Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 57%
+2023-04-08T09:01:43.034Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 58%
+2023-04-08T09:01:43.044Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 59%
+2023-04-08T09:01:43.055Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 60%
+2023-04-08T09:01:43.066Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 61%
+2023-04-08T09:01:43.078Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 62%
+2023-04-08T09:01:43.094Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 63%
+2023-04-08T09:01:43.146Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 64%
+2023-04-08T09:01:43.178Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 65%
+2023-04-08T09:01:43.185Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 66%
+2023-04-08T09:01:43.215Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 67%
+2023-04-08T09:01:43.224Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 68%
+2023-04-08T09:01:43.254Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 69%
+2023-04-08T09:01:43.257Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 70%
+2023-04-08T09:01:43.268Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 71%
+2023-04-08T09:01:43.326Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 72%
+2023-04-08T09:01:43.341Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 73%
+2023-04-08T09:01:43.376Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 74%
+2023-04-08T09:01:43.411Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 75%
+2023-04-08T09:01:43.424Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 76%
+2023-04-08T09:01:43.442Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 77%
+2023-04-08T09:01:43.464Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 78%
+2023-04-08T09:01:43.494Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 79%
+2023-04-08T09:01:43.517Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 80%
+2023-04-08T09:01:43.536Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 81%
+2023-04-08T09:01:43.555Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 82%
+2023-04-08T09:01:43.575Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 83%
+2023-04-08T09:01:43.612Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 84%
+2023-04-08T09:01:43.621Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 85%
+2023-04-08T09:01:43.635Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 86%
+2023-04-08T09:01:43.698Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 87%
+2023-04-08T09:01:43.708Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 88%
+2023-04-08T09:01:43.720Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 89%
+2023-04-08T09:01:43.738Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 90%
+2023-04-08T09:01:43.749Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 91%
+2023-04-08T09:01:43.759Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 92%
+2023-04-08T09:01:43.771Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 93%
+2023-04-08T09:01:43.783Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 94%
+2023-04-08T09:01:43.832Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 95%
+2023-04-08T09:01:43.834Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 96%
+2023-04-08T09:01:43.845Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 97%
+2023-04-08T09:01:43.886Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 98%
+2023-04-08T09:01:43.897Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 99%
+2023-04-08T09:01:43.910Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip: 100%
+2023-04-08T09:01:43.914Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-04-08T09:01:43.915Z [Modules] Installing updates...
+2023-04-08T09:01:43.915Z [Modules] Installing discord_desktop_core@1 from /home/fray/.config/discord/0.0.26/modules/pending/discord_desktop_core-1.zip
+2023-04-08T09:01:44.022Z [Modules] Installing discord_erlpack@1 from /home/fray/.config/discord/0.0.26/modules/pending/discord_erlpack-1.zip
+2023-04-08T09:01:44.141Z [Modules] Installing discord_spellcheck@1 from /home/fray/.config/discord/0.0.26/modules/pending/discord_spellcheck-1.zip
+2023-04-08T09:01:44.590Z [Modules] Installing discord_utils@1 from /home/fray/.config/discord/0.0.26/modules/pending/discord_utils-1.zip
+2023-04-08T09:01:44.836Z [Modules] Installing discord_voice@1 from /home/fray/.config/discord/0.0.26/modules/pending/discord_voice-1.zip
+2023-04-08T09:01:45.325Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-04-08T09:01:45.325Z [Modules] Checking for host updates.
+2023-04-08T09:01:45.952Z [Modules] Host is up to date.
+2023-04-08T09:01:45.953Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-08T09:01:45.959Z [Modules] No module updates available.
+2023-04-08T09:01:47.290Z [Modules] Starting to install discord_krisp...
+2023-04-08T09:01:47.291Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-04-08T09:01:47.291Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip
+2023-04-08T09:01:47.434Z [Modules] Starting to install discord_game_utils...
+2023-04-08T09:01:47.802Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 1%
+2023-04-08T09:01:47.816Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 2%
+2023-04-08T09:01:47.829Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 3%
+2023-04-08T09:01:47.849Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 4%
+2023-04-08T09:01:47.861Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 5%
+2023-04-08T09:01:47.879Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 6%
+2023-04-08T09:01:47.894Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 7%
+2023-04-08T09:01:47.903Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 8%
+2023-04-08T09:01:47.923Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 9%
+2023-04-08T09:01:47.938Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 10%
+2023-04-08T09:01:47.955Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 11%
+2023-04-08T09:01:47.974Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 12%
+2023-04-08T09:01:48.019Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 13%
+2023-04-08T09:01:48.058Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 14%
+2023-04-08T09:01:48.067Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 15%
+2023-04-08T09:01:48.129Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 16%
+2023-04-08T09:01:48.148Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 17%
+2023-04-08T09:01:48.164Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 18%
+2023-04-08T09:01:48.181Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 19%
+2023-04-08T09:01:48.196Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 20%
+2023-04-08T09:01:48.266Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 21%
+2023-04-08T09:01:48.285Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 22%
+2023-04-08T09:01:48.297Z [Modules] Checking for host updates.
+2023-04-08T09:01:48.322Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 23%
+2023-04-08T09:01:48.346Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 24%
+2023-04-08T09:01:48.368Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 25%
+2023-04-08T09:01:48.385Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 26%
+2023-04-08T09:01:48.399Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 27%
+2023-04-08T09:01:48.410Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 28%
+2023-04-08T09:01:48.429Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 29%
+2023-04-08T09:01:48.453Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 30%
+2023-04-08T09:01:48.466Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 31%
+2023-04-08T09:01:48.486Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 32%
+2023-04-08T09:01:48.505Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 33%
+2023-04-08T09:01:48.519Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 34%
+2023-04-08T09:01:48.530Z [Modules] Starting to install discord_rpc...
+2023-04-08T09:01:48.538Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 35%
+2023-04-08T09:01:48.557Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 36%
+2023-04-08T09:01:48.582Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 37%
+2023-04-08T09:01:48.599Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 38%
+2023-04-08T09:01:48.624Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 39%
+2023-04-08T09:01:48.635Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 40%
+2023-04-08T09:01:48.659Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 41%
+2023-04-08T09:01:48.676Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 42%
+2023-04-08T09:01:48.694Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 43%
+2023-04-08T09:01:48.720Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 44%
+2023-04-08T09:01:48.751Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 45%
+2023-04-08T09:01:48.804Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 46%
+2023-04-08T09:01:48.823Z [Modules] Host is up to date.
+2023-04-08T09:01:48.823Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-04-08T09:01:48.825Z [Modules] No module updates available.
+2023-04-08T09:01:48.839Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 47%
+2023-04-08T09:01:48.860Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 48%
+2023-04-08T09:01:48.879Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 49%
+2023-04-08T09:01:48.888Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 50%
+2023-04-08T09:01:48.910Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 51%
+2023-04-08T09:01:48.956Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 52%
+2023-04-08T09:01:48.972Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 53%
+2023-04-08T09:01:48.990Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 54%
+2023-04-08T09:01:49.039Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 55%
+2023-04-08T09:01:49.057Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 56%
+2023-04-08T09:01:49.074Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 57%
+2023-04-08T09:01:49.083Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 58%
+2023-04-08T09:01:49.136Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 59%
+2023-04-08T09:01:49.150Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 60%
+2023-04-08T09:01:49.160Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 61%
+2023-04-08T09:01:49.180Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 62%
+2023-04-08T09:01:49.196Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 63%
+2023-04-08T09:01:49.213Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 64%
+2023-04-08T09:01:49.225Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 65%
+2023-04-08T09:01:49.241Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 66%
+2023-04-08T09:01:49.281Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 67%
+2023-04-08T09:01:49.320Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 68%
+2023-04-08T09:01:49.329Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 69%
+2023-04-08T09:01:49.347Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 70%
+2023-04-08T09:01:49.364Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 71%
+2023-04-08T09:01:49.387Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 72%
+2023-04-08T09:01:49.407Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 73%
+2023-04-08T09:01:49.410Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 74%
+2023-04-08T09:01:49.426Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 75%
+2023-04-08T09:01:49.458Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 76%
+2023-04-08T09:01:49.476Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 77%
+2023-04-08T09:01:49.490Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 78%
+2023-04-08T09:01:49.505Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 79%
+2023-04-08T09:01:49.514Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 80%
+2023-04-08T09:01:49.532Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 81%
+2023-04-08T09:01:49.544Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 82%
+2023-04-08T09:01:49.560Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 83%
+2023-04-08T09:01:49.578Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 84%
+2023-04-08T09:01:49.596Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 85%
+2023-04-08T09:01:49.611Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 86%
+2023-04-08T09:01:49.622Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 87%
+2023-04-08T09:01:49.643Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 88%
+2023-04-08T09:01:49.661Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 89%
+2023-04-08T09:01:49.688Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 91%
+2023-04-08T09:01:49.703Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 92%
+2023-04-08T09:01:49.717Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 93%
+2023-04-08T09:01:49.725Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 94%
+2023-04-08T09:01:49.773Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 95%
+2023-04-08T09:01:49.817Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 96%
+2023-04-08T09:01:49.850Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 97%
+2023-04-08T09:01:49.863Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 98%
+2023-04-08T09:01:49.879Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 99%
+2023-04-08T09:01:49.890Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip: 100%
+2023-04-08T09:01:49.893Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-04-08T09:01:49.894Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip
+2023-04-08T09:01:49.894Z [Modules] Installing discord_krisp@1 from /home/fray/.config/discord/0.0.26/modules/pending/discord_krisp-1.zip
+2023-04-08T09:01:50.252Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-04-08T09:01:50.354Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 2%
+2023-04-08T09:01:50.358Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 3%
+2023-04-08T09:01:50.360Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 5%
+2023-04-08T09:01:50.363Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 7%
+2023-04-08T09:01:50.364Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 8%
+2023-04-08T09:01:50.368Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 11%
+2023-04-08T09:01:50.375Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 12%
+2023-04-08T09:01:50.377Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 15%
+2023-04-08T09:01:50.377Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 16%
+2023-04-08T09:01:50.382Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 19%
+2023-04-08T09:01:50.385Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 21%
+2023-04-08T09:01:50.391Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 24%
+2023-04-08T09:01:50.392Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 25%
+2023-04-08T09:01:50.401Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 28%
+2023-04-08T09:01:50.408Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 29%
+2023-04-08T09:01:50.412Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 31%
+2023-04-08T09:01:50.412Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 32%
+2023-04-08T09:01:50.419Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 35%
+2023-04-08T09:01:50.419Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 36%
+2023-04-08T09:01:50.429Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 39%
+2023-04-08T09:01:50.436Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 42%
+2023-04-08T09:01:50.448Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 43%
+2023-04-08T09:01:50.453Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 45%
+2023-04-08T09:01:50.453Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 47%
+2023-04-08T09:01:50.459Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 50%
+2023-04-08T09:01:50.459Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 51%
+2023-04-08T09:01:50.465Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 52%
+2023-04-08T09:01:50.470Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 55%
+2023-04-08T09:01:50.470Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 56%
+2023-04-08T09:01:50.475Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 59%
+2023-04-08T09:01:50.480Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 62%
+2023-04-08T09:01:50.480Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 63%
+2023-04-08T09:01:50.486Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 66%
+2023-04-08T09:01:50.490Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 68%
+2023-04-08T09:01:50.490Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 69%
+2023-04-08T09:01:50.496Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 72%
+2023-04-08T09:01:50.504Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 74%
+2023-04-08T09:01:50.508Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 75%
+2023-04-08T09:01:50.513Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 78%
+2023-04-08T09:01:50.513Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 79%
+2023-04-08T09:01:50.522Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 82%
+2023-04-08T09:01:50.525Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 85%
+2023-04-08T09:01:50.531Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 86%
+2023-04-08T09:01:50.537Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 88%
+2023-04-08T09:01:50.537Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 90%
+2023-04-08T09:01:50.548Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 92%
+2023-04-08T09:01:50.550Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 94%
+2023-04-08T09:01:50.557Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 97%
+2023-04-08T09:01:50.557Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 98%
+2023-04-08T09:01:50.581Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 99%
+2023-04-08T09:01:50.583Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip: 100%
+2023-04-08T09:01:50.583Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-04-08T09:01:50.583Z [Modules] Streaming discord_rpc@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_rpc-1.zip
+2023-04-08T09:01:50.583Z [Modules] Installing discord_game_utils@1 from /home/fray/.config/discord/0.0.26/modules/pending/discord_game_utils-1.zip
+2023-04-08T09:01:50.689Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-04-08T09:01:51.089Z [Modules] Streaming discord_rpc@1 to /home/fray/.config/discord/0.0.26/modules/pending/discord_rpc-1.zip: 100%
+2023-04-08T09:01:51.091Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-04-08T09:01:51.091Z [Modules] Installing discord_rpc@1 from /home/fray/.config/discord/0.0.26/modules/pending/discord_rpc-1.zip
+2023-04-08T09:01:51.130Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-01-29T15:08:17.003Z [Modules] Modules initializing
+2024-01-29T15:08:17.003Z [Modules] Distribution: remote
+2024-01-29T15:08:17.003Z [Modules] Host updates: enabled
+2024-01-29T15:08:17.003Z [Modules] Module updates: enabled
+2024-01-29T15:08:17.003Z [Modules] Module install path: /home/fray/.config/discord/0.0.41/modules
+2024-01-29T15:08:17.003Z [Modules] Module installed file path: /home/fray/.config/discord/0.0.41/modules/installed.json
+2024-01-29T15:08:17.003Z [Modules] Module download path: /home/fray/.config/discord/0.0.41/modules/pending
+2024-01-29T15:08:17.255Z [Modules] Bootstrapping...
+2024-01-29T15:08:17.256Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-01-29T15:08:17.258Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-01-29T15:08:17.258Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-01-29T15:08:17.260Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-01-29T15:08:17.260Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-01-29T15:08:17.261Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-01-29T15:08:17.261Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-01-29T15:08:17.262Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-01-29T15:08:17.262Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-01-29T15:08:17.263Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-01-29T15:08:17.263Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2024-01-29T15:08:17.264Z [Modules] Checking for host updates.
+2024-01-29T15:08:17.870Z [Modules] Host is up to date.
+2024-01-29T15:08:17.870Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-29T15:08:17.917Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-01-29T15:08:17.917Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-01-29T15:08:17.917Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-01-29T15:08:17.917Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-01-29T15:08:17.917Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-01-29T15:08:17.917Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-01-29T15:08:17.917Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip
+2024-01-29T15:08:19.338Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 1%
+2024-01-29T15:08:19.559Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 2%
+2024-01-29T15:08:19.610Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 3%
+2024-01-29T15:08:19.958Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 4%
+2024-01-29T15:08:19.975Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 7%
+2024-01-29T15:08:20.020Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 8%
+2024-01-29T15:08:20.225Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 9%
+2024-01-29T15:08:20.226Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 11%
+2024-01-29T15:08:20.244Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 12%
+2024-01-29T15:08:20.268Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 13%
+2024-01-29T15:08:20.840Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 14%
+2024-01-29T15:08:20.843Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 17%
+2024-01-29T15:08:20.844Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 18%
+2024-01-29T15:08:20.844Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 21%
+2024-01-29T15:08:20.845Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 23%
+2024-01-29T15:08:20.854Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 25%
+2024-01-29T15:08:21.460Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 27%
+2024-01-29T15:08:21.462Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 29%
+2024-01-29T15:08:21.967Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 30%
+2024-01-29T15:08:21.976Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 31%
+2024-01-29T15:08:21.983Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 34%
+2024-01-29T15:08:21.983Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 36%
+2024-01-29T15:08:21.987Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 37%
+2024-01-29T15:08:22.054Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 38%
+2024-01-29T15:08:22.087Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 39%
+2024-01-29T15:08:22.337Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 40%
+2024-01-29T15:08:22.349Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 41%
+2024-01-29T15:08:22.419Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 42%
+2024-01-29T15:08:22.480Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 43%
+2024-01-29T15:08:22.493Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 46%
+2024-01-29T15:08:22.494Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 47%
+2024-01-29T15:08:22.521Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 48%
+2024-01-29T15:08:22.601Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 49%
+2024-01-29T15:08:22.616Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 50%
+2024-01-29T15:08:22.649Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 51%
+2024-01-29T15:08:22.720Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 52%
+2024-01-29T15:08:22.760Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 53%
+2024-01-29T15:08:22.992Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 54%
+2024-01-29T15:08:23.212Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 57%
+2024-01-29T15:08:23.213Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 61%
+2024-01-29T15:08:23.217Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 62%
+2024-01-29T15:08:23.251Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 63%
+2024-01-29T15:08:23.313Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 64%
+2024-01-29T15:08:23.347Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 65%
+2024-01-29T15:08:23.410Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 66%
+2024-01-29T15:08:23.649Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 68%
+2024-01-29T15:08:23.721Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 69%
+2024-01-29T15:08:23.757Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 70%
+2024-01-29T15:08:23.801Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 71%
+2024-01-29T15:08:23.846Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 74%
+2024-01-29T15:08:23.846Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 75%
+2024-01-29T15:08:23.867Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 76%
+2024-01-29T15:08:23.894Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 77%
+2024-01-29T15:08:23.961Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 78%
+2024-01-29T15:08:23.989Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 79%
+2024-01-29T15:08:24.024Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 80%
+2024-01-29T15:08:24.092Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 81%
+2024-01-29T15:08:24.303Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 83%
+2024-01-29T15:08:24.383Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 86%
+2024-01-29T15:08:24.384Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 88%
+2024-01-29T15:08:24.423Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 89%
+2024-01-29T15:08:24.478Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 90%
+2024-01-29T15:08:24.502Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 91%
+2024-01-29T15:08:24.566Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 92%
+2024-01-29T15:08:24.588Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 93%
+2024-01-29T15:08:24.615Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 94%
+2024-01-29T15:08:24.669Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 95%
+2024-01-29T15:08:24.880Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 96%
+2024-01-29T15:08:24.902Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 99%
+2024-01-29T15:08:24.903Z [Modules] Streaming discord_desktop_core@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip: 100%
+2024-01-29T15:08:24.905Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-01-29T15:08:24.905Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip
+2024-01-29T15:08:25.758Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 1%
+2024-01-29T15:08:25.762Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 3%
+2024-01-29T15:08:25.765Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 4%
+2024-01-29T15:08:25.974Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 5%
+2024-01-29T15:08:26.201Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 9%
+2024-01-29T15:08:26.202Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 12%
+2024-01-29T15:08:26.251Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 13%
+2024-01-29T15:08:26.255Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 14%
+2024-01-29T15:08:26.277Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 16%
+2024-01-29T15:08:26.309Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 19%
+2024-01-29T15:08:26.310Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 21%
+2024-01-29T15:08:26.317Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 22%
+2024-01-29T15:08:26.340Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 23%
+2024-01-29T15:08:26.395Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 24%
+2024-01-29T15:08:26.418Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 25%
+2024-01-29T15:08:26.447Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 26%
+2024-01-29T15:08:26.475Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 27%
+2024-01-29T15:08:26.498Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 28%
+2024-01-29T15:08:26.553Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 29%
+2024-01-29T15:08:26.580Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 30%
+2024-01-29T15:08:26.604Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 31%
+2024-01-29T15:08:26.631Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 32%
+2024-01-29T15:08:26.660Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 33%
+2024-01-29T15:08:26.881Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 36%
+2024-01-29T15:08:26.882Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 37%
+2024-01-29T15:08:26.988Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 40%
+2024-01-29T15:08:26.989Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 44%
+2024-01-29T15:08:26.998Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 45%
+2024-01-29T15:08:27.030Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 46%
+2024-01-29T15:08:27.078Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 47%
+2024-01-29T15:08:27.102Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 48%
+2024-01-29T15:08:27.127Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 49%
+2024-01-29T15:08:27.147Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 50%
+2024-01-29T15:08:27.171Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 51%
+2024-01-29T15:08:27.216Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 52%
+2024-01-29T15:08:27.241Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 53%
+2024-01-29T15:08:27.265Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 54%
+2024-01-29T15:08:27.291Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 55%
+2024-01-29T15:08:27.312Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 56%
+2024-01-29T15:08:27.337Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 57%
+2024-01-29T15:08:27.383Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 58%
+2024-01-29T15:08:27.598Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 59%
+2024-01-29T15:08:27.618Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 63%
+2024-01-29T15:08:27.619Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 65%
+2024-01-29T15:08:27.652Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 66%
+2024-01-29T15:08:27.677Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 67%
+2024-01-29T15:08:27.701Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 68%
+2024-01-29T15:08:27.728Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 69%
+2024-01-29T15:08:27.772Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 70%
+2024-01-29T15:08:27.801Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 71%
+2024-01-29T15:08:27.842Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 72%
+2024-01-29T15:08:27.852Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 73%
+2024-01-29T15:08:27.868Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 74%
+2024-01-29T15:08:27.894Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 75%
+2024-01-29T15:08:27.937Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 76%
+2024-01-29T15:08:28.168Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 78%
+2024-01-29T15:08:28.214Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 81%
+2024-01-29T15:08:28.215Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 86%
+2024-01-29T15:08:28.238Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 87%
+2024-01-29T15:08:28.283Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 88%
+2024-01-29T15:08:28.307Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 89%
+2024-01-29T15:08:28.334Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 90%
+2024-01-29T15:08:28.372Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 91%
+2024-01-29T15:08:28.386Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 92%
+2024-01-29T15:08:28.431Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 93%
+2024-01-29T15:08:28.451Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 94%
+2024-01-29T15:08:28.462Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 95%
+2024-01-29T15:08:28.486Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 96%
+2024-01-29T15:08:28.508Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 97%
+2024-01-29T15:08:28.519Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 98%
+2024-01-29T15:08:28.843Z [Modules] Streaming discord_erlpack@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip: 100%
+2024-01-29T15:08:28.844Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-01-29T15:08:28.845Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip
+2024-01-29T15:08:29.945Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 1%
+2024-01-29T15:08:30.275Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 2%
+2024-01-29T15:08:30.362Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 3%
+2024-01-29T15:08:30.476Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 4%
+2024-01-29T15:08:30.482Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 5%
+2024-01-29T15:08:30.629Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 6%
+2024-01-29T15:08:30.757Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 7%
+2024-01-29T15:08:31.111Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 8%
+2024-01-29T15:08:31.157Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 9%
+2024-01-29T15:08:31.299Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 10%
+2024-01-29T15:08:31.299Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 11%
+2024-01-29T15:08:31.663Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 12%
+2024-01-29T15:08:31.751Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 13%
+2024-01-29T15:08:31.752Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 14%
+2024-01-29T15:08:31.810Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 15%
+2024-01-29T15:08:32.123Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 16%
+2024-01-29T15:08:32.232Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 17%
+2024-01-29T15:08:32.346Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 18%
+2024-01-29T15:08:32.364Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 19%
+2024-01-29T15:08:32.454Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 20%
+2024-01-29T15:08:32.739Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 21%
+2024-01-29T15:08:32.834Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 22%
+2024-01-29T15:08:32.890Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 23%
+2024-01-29T15:08:33.014Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 24%
+2024-01-29T15:08:33.015Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 25%
+2024-01-29T15:08:33.064Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 26%
+2024-01-29T15:08:33.155Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 27%
+2024-01-29T15:08:33.256Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 28%
+2024-01-29T15:08:33.570Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 29%
+2024-01-29T15:08:33.621Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 30%
+2024-01-29T15:08:33.622Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 31%
+2024-01-29T15:08:33.720Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 32%
+2024-01-29T15:08:33.803Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 33%
+2024-01-29T15:08:34.127Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 34%
+2024-01-29T15:08:34.201Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 35%
+2024-01-29T15:08:34.223Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 36%
+2024-01-29T15:08:34.224Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 37%
+2024-01-29T15:08:34.327Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 38%
+2024-01-29T15:08:34.662Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 39%
+2024-01-29T15:08:34.735Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 40%
+2024-01-29T15:08:34.736Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 41%
+2024-01-29T15:08:34.777Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 42%
+2024-01-29T15:08:34.867Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 43%
+2024-01-29T15:08:34.970Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 44%
+2024-01-29T15:08:35.277Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 45%
+2024-01-29T15:08:35.373Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 46%
+2024-01-29T15:08:35.376Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 47%
+2024-01-29T15:08:35.614Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 48%
+2024-01-29T15:08:35.630Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 49%
+2024-01-29T15:08:35.753Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 50%
+2024-01-29T15:08:35.787Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 51%
+2024-01-29T15:08:35.790Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 52%
+2024-01-29T15:08:35.857Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 53%
+2024-01-29T15:08:35.943Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 54%
+2024-01-29T15:08:36.019Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 55%
+2024-01-29T15:08:36.282Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 56%
+2024-01-29T15:08:36.374Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 57%
+2024-01-29T15:08:36.431Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 58%
+2024-01-29T15:08:36.434Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 59%
+2024-01-29T15:08:36.475Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 60%
+2024-01-29T15:08:36.567Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 61%
+2024-01-29T15:08:36.874Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 62%
+2024-01-29T15:08:36.933Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 63%
+2024-01-29T15:08:37.020Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 64%
+2024-01-29T15:08:37.023Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 66%
+2024-01-29T15:08:37.091Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 67%
+2024-01-29T15:08:37.165Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 68%
+2024-01-29T15:08:37.440Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 69%
+2024-01-29T15:08:37.534Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 70%
+2024-01-29T15:08:37.585Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 71%
+2024-01-29T15:08:37.678Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 72%
+2024-01-29T15:08:37.683Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 73%
+2024-01-29T15:08:37.686Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 74%
+2024-01-29T15:08:37.950Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 75%
+2024-01-29T15:08:37.952Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 76%
+2024-01-29T15:08:38.063Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 77%
+2024-01-29T15:08:38.099Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 78%
+2024-01-29T15:08:38.101Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 79%
+2024-01-29T15:08:38.105Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 80%
+2024-01-29T15:08:38.177Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 81%
+2024-01-29T15:08:38.238Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 82%
+2024-01-29T15:08:38.522Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 83%
+2024-01-29T15:08:38.617Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 84%
+2024-01-29T15:08:38.656Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 85%
+2024-01-29T15:08:38.659Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 87%
+2024-01-29T15:08:38.708Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 88%
+2024-01-29T15:08:38.761Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 89%
+2024-01-29T15:08:39.020Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 90%
+2024-01-29T15:08:39.109Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 91%
+2024-01-29T15:08:39.197Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 92%
+2024-01-29T15:08:39.200Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 94%
+2024-01-29T15:08:39.237Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 95%
+2024-01-29T15:08:39.304Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 96%
+2024-01-29T15:08:39.359Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 97%
+2024-01-29T15:08:39.426Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 98%
+2024-01-29T15:08:39.708Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 99%
+2024-01-29T15:08:39.713Z [Modules] Streaming discord_spellcheck@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip: 100%
+2024-01-29T15:08:39.717Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-01-29T15:08:39.718Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip
+2024-01-29T15:08:40.633Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 1%
+2024-01-29T15:08:40.650Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 2%
+2024-01-29T15:08:40.897Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 3%
+2024-01-29T15:08:40.915Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 4%
+2024-01-29T15:08:40.930Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 5%
+2024-01-29T15:08:40.950Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 6%
+2024-01-29T15:08:40.970Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 7%
+2024-01-29T15:08:40.983Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 9%
+2024-01-29T15:08:40.986Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 12%
+2024-01-29T15:08:40.989Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 14%
+2024-01-29T15:08:40.992Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 17%
+2024-01-29T15:08:41.002Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 19%
+2024-01-29T15:08:41.039Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 22%
+2024-01-29T15:08:41.042Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 25%
+2024-01-29T15:08:41.046Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 26%
+2024-01-29T15:08:41.066Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 27%
+2024-01-29T15:08:41.081Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 28%
+2024-01-29T15:08:41.097Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 29%
+2024-01-29T15:08:41.108Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 30%
+2024-01-29T15:08:41.120Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 31%
+2024-01-29T15:08:41.133Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 32%
+2024-01-29T15:08:41.150Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 33%
+2024-01-29T15:08:41.163Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 34%
+2024-01-29T15:08:41.180Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 35%
+2024-01-29T15:08:41.197Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 36%
+2024-01-29T15:08:41.228Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 37%
+2024-01-29T15:08:41.439Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 39%
+2024-01-29T15:08:41.449Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 41%
+2024-01-29T15:08:41.476Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 43%
+2024-01-29T15:08:41.515Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 44%
+2024-01-29T15:08:41.554Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 45%
+2024-01-29T15:08:41.562Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 46%
+2024-01-29T15:08:41.581Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 47%
+2024-01-29T15:08:41.611Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 48%
+2024-01-29T15:08:41.633Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 51%
+2024-01-29T15:08:41.635Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 57%
+2024-01-29T15:08:41.638Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 59%
+2024-01-29T15:08:41.641Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 60%
+2024-01-29T15:08:41.646Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 61%
+2024-01-29T15:08:41.664Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 62%
+2024-01-29T15:08:41.680Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 63%
+2024-01-29T15:08:41.698Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 64%
+2024-01-29T15:08:41.716Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 65%
+2024-01-29T15:08:41.729Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 66%
+2024-01-29T15:08:41.745Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 67%
+2024-01-29T15:08:41.762Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 68%
+2024-01-29T15:08:41.981Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 70%
+2024-01-29T15:08:42.003Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 71%
+2024-01-29T15:08:42.020Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 72%
+2024-01-29T15:08:42.040Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 73%
+2024-01-29T15:08:42.060Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 75%
+2024-01-29T15:08:42.091Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 76%
+2024-01-29T15:08:42.102Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 77%
+2024-01-29T15:08:42.118Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 78%
+2024-01-29T15:08:42.144Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 81%
+2024-01-29T15:08:42.146Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 87%
+2024-01-29T15:08:42.149Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 90%
+2024-01-29T15:08:42.151Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 91%
+2024-01-29T15:08:42.160Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 92%
+2024-01-29T15:08:42.181Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 93%
+2024-01-29T15:08:42.194Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 94%
+2024-01-29T15:08:42.211Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 95%
+2024-01-29T15:08:42.228Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 96%
+2024-01-29T15:08:42.245Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 97%
+2024-01-29T15:08:42.257Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 98%
+2024-01-29T15:08:42.274Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 99%
+2024-01-29T15:08:42.295Z [Modules] Streaming discord_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip: 100%
+2024-01-29T15:08:42.297Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-01-29T15:08:42.297Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip
+2024-01-29T15:08:43.609Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 1%
+2024-01-29T15:08:43.612Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 2%
+2024-01-29T15:08:43.682Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 3%
+2024-01-29T15:08:43.711Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 4%
+2024-01-29T15:08:43.816Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 5%
+2024-01-29T15:08:44.137Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 6%
+2024-01-29T15:08:44.236Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 7%
+2024-01-29T15:08:44.349Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 8%
+2024-01-29T15:08:44.408Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 9%
+2024-01-29T15:08:44.449Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 10%
+2024-01-29T15:08:44.756Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 11%
+2024-01-29T15:08:44.864Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 12%
+2024-01-29T15:08:44.867Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 13%
+2024-01-29T15:08:44.912Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 14%
+2024-01-29T15:08:45.238Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 15%
+2024-01-29T15:08:45.286Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 16%
+2024-01-29T15:08:45.428Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 17%
+2024-01-29T15:08:45.431Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 18%
+2024-01-29T15:08:45.463Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 19%
+2024-01-29T15:08:45.581Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 20%
+2024-01-29T15:08:45.911Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 21%
+2024-01-29T15:08:45.972Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 22%
+2024-01-29T15:08:46.082Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 23%
+2024-01-29T15:08:46.085Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 24%
+2024-01-29T15:08:46.119Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 25%
+2024-01-29T15:08:46.429Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 26%
+2024-01-29T15:08:46.680Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 27%
+2024-01-29T15:08:46.686Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 28%
+2024-01-29T15:08:46.691Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 29%
+2024-01-29T15:08:46.697Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 30%
+2024-01-29T15:08:46.719Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 31%
+2024-01-29T15:08:46.802Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 32%
+2024-01-29T15:08:47.156Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 33%
+2024-01-29T15:08:47.381Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 34%
+2024-01-29T15:08:47.384Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 35%
+2024-01-29T15:08:47.387Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 36%
+2024-01-29T15:08:47.399Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 37%
+2024-01-29T15:08:47.512Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 38%
+2024-01-29T15:08:47.957Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 39%
+2024-01-29T15:08:47.961Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 40%
+2024-01-29T15:08:47.964Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 41%
+2024-01-29T15:08:48.001Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 42%
+2024-01-29T15:08:48.003Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 43%
+2024-01-29T15:08:48.165Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 44%
+2024-01-29T15:08:48.169Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 45%
+2024-01-29T15:08:48.188Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 46%
+2024-01-29T15:08:48.500Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 47%
+2024-01-29T15:08:48.581Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 48%
+2024-01-29T15:08:48.652Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 49%
+2024-01-29T15:08:48.675Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 50%
+2024-01-29T15:08:48.677Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 51%
+2024-01-29T15:08:48.734Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 52%
+2024-01-29T15:08:48.817Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 53%
+2024-01-29T15:08:49.259Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 54%
+2024-01-29T15:08:49.365Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 55%
+2024-01-29T15:08:49.369Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 56%
+2024-01-29T15:08:49.373Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 57%
+2024-01-29T15:08:49.423Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 58%
+2024-01-29T15:08:49.425Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 59%
+2024-01-29T15:08:49.428Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 60%
+2024-01-29T15:08:49.446Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 61%
+2024-01-29T15:08:49.884Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 62%
+2024-01-29T15:08:49.945Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 63%
+2024-01-29T15:08:50.049Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 64%
+2024-01-29T15:08:50.052Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 65%
+2024-01-29T15:08:50.056Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 66%
+2024-01-29T15:08:50.334Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 67%
+2024-01-29T15:08:50.457Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 68%
+2024-01-29T15:08:50.571Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 69%
+2024-01-29T15:08:50.680Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 70%
+2024-01-29T15:08:50.683Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 71%
+2024-01-29T15:08:50.903Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 72%
+2024-01-29T15:08:51.017Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 73%
+2024-01-29T15:08:51.080Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 74%
+2024-01-29T15:08:51.175Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 75%
+2024-01-29T15:08:51.230Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 76%
+2024-01-29T15:08:51.239Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 77%
+2024-01-29T15:08:51.242Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 78%
+2024-01-29T15:08:51.686Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 79%
+2024-01-29T15:08:51.769Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 80%
+2024-01-29T15:08:51.780Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 81%
+2024-01-29T15:08:51.841Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 82%
+2024-01-29T15:08:51.931Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 83%
+2024-01-29T15:08:51.934Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 84%
+2024-01-29T15:08:51.939Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 85%
+2024-01-29T15:08:52.336Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 86%
+2024-01-29T15:08:52.383Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 87%
+2024-01-29T15:08:52.452Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 88%
+2024-01-29T15:08:52.516Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 89%
+2024-01-29T15:08:52.549Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 90%
+2024-01-29T15:08:52.551Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 91%
+2024-01-29T15:08:52.731Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 92%
+2024-01-29T15:08:52.839Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 93%
+2024-01-29T15:08:53.170Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 94%
+2024-01-29T15:08:53.550Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 95%
+2024-01-29T15:08:53.553Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 96%
+2024-01-29T15:08:53.556Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 97%
+2024-01-29T15:08:54.010Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 98%
+2024-01-29T15:08:54.013Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 99%
+2024-01-29T15:08:54.045Z [Modules] Streaming discord_voice@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip: 100%
+2024-01-29T15:08:54.047Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2024-01-29T15:08:54.048Z [Modules] Installing updates...
+2024-01-29T15:08:54.049Z [Modules] Installing discord_desktop_core@1 from /home/fray/.config/discord/0.0.41/modules/pending/discord_desktop_core-1.zip
+2024-01-29T15:08:54.149Z [Modules] Installing discord_erlpack@1 from /home/fray/.config/discord/0.0.41/modules/pending/discord_erlpack-1.zip
+2024-01-29T15:08:54.194Z [Modules] Installing discord_spellcheck@1 from /home/fray/.config/discord/0.0.41/modules/pending/discord_spellcheck-1.zip
+2024-01-29T15:08:54.844Z [Modules] Installing discord_utils@1 from /home/fray/.config/discord/0.0.41/modules/pending/discord_utils-1.zip
+2024-01-29T15:08:54.957Z [Modules] Installing discord_voice@1 from /home/fray/.config/discord/0.0.41/modules/pending/discord_voice-1.zip
+2024-01-29T15:08:55.481Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2024-01-29T15:08:55.481Z [Modules] Checking for host updates.
+2024-01-29T15:08:55.979Z [Modules] Host is up to date.
+2024-01-29T15:08:55.980Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-29T15:08:55.988Z [Modules] No module updates available.
+2024-01-29T15:08:57.872Z [Modules] Starting to install discord_krisp...
+2024-01-29T15:08:57.872Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-01-29T15:08:57.872Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip
+2024-01-29T15:08:57.878Z [Modules] Starting to install discord_game_utils...
+2024-01-29T15:08:59.011Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 1%
+2024-01-29T15:08:59.092Z [Modules] Checking for host updates.
+2024-01-29T15:08:59.129Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 2%
+2024-01-29T15:08:59.192Z [Modules] Starting to install discord_rpc...
+2024-01-29T15:08:59.507Z [Modules] Host is up to date.
+2024-01-29T15:08:59.507Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-29T15:08:59.510Z [Modules] No module updates available.
+2024-01-29T15:08:59.547Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 3%
+2024-01-29T15:08:59.547Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 4%
+2024-01-29T15:08:59.597Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 5%
+2024-01-29T15:08:59.598Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 6%
+2024-01-29T15:08:59.600Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 7%
+2024-01-29T15:08:59.601Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 8%
+2024-01-29T15:09:00.215Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 9%
+2024-01-29T15:09:00.314Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 10%
+2024-01-29T15:09:00.318Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 11%
+2024-01-29T15:09:00.319Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 12%
+2024-01-29T15:09:00.343Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 13%
+2024-01-29T15:09:00.383Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 14%
+2024-01-29T15:09:00.386Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 15%
+2024-01-29T15:09:00.388Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 16%
+2024-01-29T15:09:00.757Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 17%
+2024-01-29T15:09:00.904Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 18%
+2024-01-29T15:09:01.281Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 19%
+2024-01-29T15:09:01.282Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 20%
+2024-01-29T15:09:01.285Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 21%
+2024-01-29T15:09:01.287Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 22%
+2024-01-29T15:09:01.289Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 23%
+2024-01-29T15:09:01.290Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 24%
+2024-01-29T15:09:01.703Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 25%
+2024-01-29T15:09:02.768Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 26%
+2024-01-29T15:09:02.768Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 27%
+2024-01-29T15:09:02.769Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 28%
+2024-01-29T15:09:02.770Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 29%
+2024-01-29T15:09:02.770Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 30%
+2024-01-29T15:09:02.825Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 31%
+2024-01-29T15:09:02.869Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 32%
+2024-01-29T15:09:02.894Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 33%
+2024-01-29T15:09:02.973Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 34%
+2024-01-29T15:09:03.402Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 35%
+2024-01-29T15:09:03.415Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 36%
+2024-01-29T15:09:03.486Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 37%
+2024-01-29T15:09:03.488Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 38%
+2024-01-29T15:09:03.490Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 39%
+2024-01-29T15:09:03.492Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 40%
+2024-01-29T15:09:03.493Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 41%
+2024-01-29T15:09:03.495Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 42%
+2024-01-29T15:09:03.699Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 43%
+2024-01-29T15:09:03.771Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 44%
+2024-01-29T15:09:04.196Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 45%
+2024-01-29T15:09:04.232Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 46%
+2024-01-29T15:09:04.255Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 49%
+2024-01-29T15:09:04.495Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 50%
+2024-01-29T15:09:04.548Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 51%
+2024-01-29T15:09:04.639Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 52%
+2024-01-29T15:09:04.806Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 53%
+2024-01-29T15:09:04.808Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 54%
+2024-01-29T15:09:04.809Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 55%
+2024-01-29T15:09:04.812Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 56%
+2024-01-29T15:09:04.813Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 57%
+2024-01-29T15:09:04.815Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 58%
+2024-01-29T15:09:05.901Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 59%
+2024-01-29T15:09:05.903Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 60%
+2024-01-29T15:09:05.955Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 61%
+2024-01-29T15:09:05.958Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 62%
+2024-01-29T15:09:05.960Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 63%
+2024-01-29T15:09:05.962Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 64%
+2024-01-29T15:09:05.965Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 65%
+2024-01-29T15:09:05.967Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 66%
+2024-01-29T15:09:06.539Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 67%
+2024-01-29T15:09:06.589Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 68%
+2024-01-29T15:09:06.603Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 69%
+2024-01-29T15:09:06.605Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 70%
+2024-01-29T15:09:06.607Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 71%
+2024-01-29T15:09:06.609Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 72%
+2024-01-29T15:09:06.611Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 73%
+2024-01-29T15:09:06.612Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 74%
+2024-01-29T15:09:06.970Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 75%
+2024-01-29T15:09:06.972Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 76%
+2024-01-29T15:09:06.975Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 77%
+2024-01-29T15:09:06.977Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 78%
+2024-01-29T15:09:06.993Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 79%
+2024-01-29T15:09:07.051Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 80%
+2024-01-29T15:09:07.451Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 81%
+2024-01-29T15:09:07.487Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 82%
+2024-01-29T15:09:07.578Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 83%
+2024-01-29T15:09:07.623Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 84%
+2024-01-29T15:09:08.018Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 85%
+2024-01-29T15:09:08.020Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 86%
+2024-01-29T15:09:08.022Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 87%
+2024-01-29T15:09:08.023Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 88%
+2024-01-29T15:09:08.024Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 89%
+2024-01-29T15:09:09.285Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 90%
+2024-01-29T15:09:09.287Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 91%
+2024-01-29T15:09:09.289Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 92%
+2024-01-29T15:09:09.290Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 93%
+2024-01-29T15:09:09.292Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 94%
+2024-01-29T15:09:09.293Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 96%
+2024-01-29T15:09:09.295Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 97%
+2024-01-29T15:09:09.314Z [Modules] Streaming discord_krisp@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip: 100%
+2024-01-29T15:09:09.317Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-01-29T15:09:09.318Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip
+2024-01-29T15:09:09.318Z [Modules] Installing discord_krisp@1 from /home/fray/.config/discord/0.0.41/modules/pending/discord_krisp-1.zip
+2024-01-29T15:09:09.780Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-01-29T15:09:10.101Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 1%
+2024-01-29T15:09:10.450Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 3%
+2024-01-29T15:09:10.472Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 5%
+2024-01-29T15:09:10.480Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 7%
+2024-01-29T15:09:10.496Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 9%
+2024-01-29T15:09:10.512Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 11%
+2024-01-29T15:09:11.022Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 14%
+2024-01-29T15:09:11.023Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 17%
+2024-01-29T15:09:11.025Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 22%
+2024-01-29T15:09:11.026Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 25%
+2024-01-29T15:09:11.027Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 27%
+2024-01-29T15:09:11.028Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 32%
+2024-01-29T15:09:11.029Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 38%
+2024-01-29T15:09:11.031Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 43%
+2024-01-29T15:09:11.032Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 48%
+2024-01-29T15:09:11.033Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 51%
+2024-01-29T15:09:11.034Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 56%
+2024-01-29T15:09:11.035Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 64%
+2024-01-29T15:09:11.037Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 71%
+2024-01-29T15:09:11.038Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 79%
+2024-01-29T15:09:11.324Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 82%
+2024-01-29T15:09:11.330Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 83%
+2024-01-29T15:09:11.742Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 84%
+2024-01-29T15:09:11.748Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 85%
+2024-01-29T15:09:11.939Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 86%
+2024-01-29T15:09:11.940Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 89%
+2024-01-29T15:09:12.458Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 91%
+2024-01-29T15:09:12.459Z [Modules] Streaming discord_game_utils@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip: 100%
+2024-01-29T15:09:12.459Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-01-29T15:09:12.459Z [Modules] Streaming discord_rpc@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_rpc-1.zip
+2024-01-29T15:09:12.459Z [Modules] Installing discord_game_utils@1 from /home/fray/.config/discord/0.0.41/modules/pending/discord_game_utils-1.zip
+2024-01-29T15:09:12.505Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-01-29T15:09:13.281Z [Modules] Streaming discord_rpc@1 to /home/fray/.config/discord/0.0.41/modules/pending/discord_rpc-1.zip: 100%
+2024-01-29T15:09:13.283Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2024-01-29T15:09:13.285Z [Modules] Installing discord_rpc@1 from /home/fray/.config/discord/0.0.41/modules/pending/discord_rpc-1.zip
+2024-01-29T15:09:13.319Z [Modules] Finished module installations. [success: 1] [failure: 0]
